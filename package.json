@@ -9,8 +9,4 @@
     "express": "^4.18.2"
   }
 }
-```
 
-**3. `.gitignore`**
-```
-node_modules/
